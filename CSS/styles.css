@@ -1,0 +1,15 @@
+
+ body {background-color: #ffffdd;}
+
+ hr  {
+   border-color: #81f5ff;
+   border-style: dotted none none;
+   border-width: 5px;
+   width: 5%;
+     }
+
+h1   {color: #3b6978;
+  font-style: oblique;
+          }
+h3   {color: #3b6978;
+  font-style: oblique;}
